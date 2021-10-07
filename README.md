@@ -1,2 +1,1 @@
-# gitbranchmerge
- Practice repository for forking, branching, and merging for bebi103
+## Welcome to Git practice!
